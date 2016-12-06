@@ -7,7 +7,7 @@
   </parent>
   <groupId>com.allen.custom</groupId>
   <artifactId>allen-custom-define</artifactId>
-  <version>1.0.0</version>
+  <version>${custom.define.version}</version>
   
   <dependencies>
   	<!-- spring核心依赖 -->
